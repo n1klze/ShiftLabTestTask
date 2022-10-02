@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Регистрация</string>
+    <string name="required">*Обязательное поле</string>
+    <string name="first_name">Имя</string>
+    <string name="last_name">Фамилия</string>
+    <string name="birth_date">Дата рождения</string>
+    <string name="password">Пароль</string>
+    <string name="confirm_password">Подтверждение пароля</string>
+    <string name="register">Зарегистрироваться</string>
+</resources>
